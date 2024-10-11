@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Asus Zenbook Pro",
+        "price": 827929,
+        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhinneka.com%2Fblog%2Flaptop-asus-terbaru%2F&psig=AOvVaw0hh7QOCoP_MaWfbf3_oVSz&ust=1728560797735000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjz9vacgYkDFQAAAAAdAAAAABAJ", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.asus.com%2Fid%2Flaptops%2Ffor-work%2Fzenbook%2F&psig=AOvVaw0hh7QOCoP_MaWfbf3_oVSz&ust=1728560797735000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjz9vacgYkDFQAAAAAdAAAAABAR"],
+        "variances": ["Black", "White", "Metalic"]
+      },
+      {
+        "id": 2,
+        "name": "Lenovo Slim 3 Ryzen",
+        "price": 621599,
+        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blibli.com%2Fjual%2Flaptop-lenovo&psig=AOvVaw1uCPwiy7C2p_5T62qUq__T&ust=1728560880759000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjU_Z-dgYkDFQAAAAAdAAAAABAE", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Ftrendshopcomm%2Flaptop-lenovo-slim-3-ryzen-3-3250-4gb-256gb-ssd-14inch-fhd-w10-ohs%3Faff_unique_id%3DVjkEDrixaXXP9eF21KK3INZpXnyNEXaALkFI5ckjKy3IR_kfUneVxML83EHhAt3SacQ8SQ%253D%253D%26channel%3Dyoutube&psig=AOvVaw1uCPwiy7C2p_5T62qUq__T&ust=1728560880759000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjU_Z-dgYkDFQAAAAAdAAAAABAQ"],
+        "variances": ["Navy"]
+      },
+      {
+        "id": 3,
+        "name": "Acer Aspore",
+        "price": 215199,
+        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhinneka.com%2Fblog%2Flaptop-acer-aspire%2F&psig=AOvVaw2gMHIgz5R2QcTpalCRONaZ&ust=1728560933268000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjbuLedgYkDFQAAAAAdAAAAABAE", "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-siplah.blibli.com%2Fdata%2Fimages%2FSTOC-0001-00409%2F0a98e41c-2add-428e-8597-416195c43401.jpg&tbnid=lOZeYB9APiPq5M&vet=10CAIQxiAoAGoXChMImNu4t52BiQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fsiplah.blibli.com%2Fproduct%2Flaptop-acer-aspire-5-515-56-core-i5-ram-16-gb-nvme-512gb-15-%2FSTOC-0001-00409&docid=_F6svkCfo2WyGM&w=700&h=700&itg=1&q=laptop%20acer%20gambar%20produk%20laptop&ved=0CAIQxiAoAGoXChMImNu4t52BiQMVAAAAAB0AAAAAEAc"],
+        "variances": ["Gold", "Sea Blue"]
+      },
+      {
+        "id": 4,
+        "name": "HP 14S-DQ0508TU",
+        "price": 849929,
+        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopping.tribunnews.com%2F2023%2F01%2F21%2Freview-laptop-hp-14s-dq0508tu-performa-andal-intel-celeron-4-core-harga-rp-4-jutaan&psig=AOvVaw1zs9kKolc_DlTJEcOynYR1&ust=1728560977251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCAmc6dgYkDFQAAAAAdAAAAABAJ", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fkodoescomputer-1%2Flaptop-hp-14s-dq0508tu-n4120-4gb-256gb-14-0-w10-ohs-silver&psig=AOvVaw1zs9kKolc_DlTJEcOynYR1&ust=1728560977251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCAmc6dgYkDFQAAAAAdAAAAABAY"],
+        "variances": ["Titanium"]
+      },
+      {
+        "id": 5,
+        "name": "LG Gram-17Z90",
+        "price": 949199,
+        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fponderscomp%2Flaptop-17-lg-gram-paling-ringan-i7-gen12-32gb-1tb&psig=AOvVaw1p4LXsoRS29lqHqdGC_L-Q&ust=1728561065642000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDjq_idgYkDFQAAAAAdAAAAABAE", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhiraoka.com.pe%2Flaptop-lg-gram-17z90q-g-ah76b4-17-intel-core-i7-evo-12va-gen-512gb-ssd-16gb-ram-gris&psig=AOvVaw1p4LXsoRS29lqHqdGC_L-Q&ust=1728561065642000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDjq_idgYkDFQAAAAAdAAAAABAJ"],
+        "variances": ["Dark Silver", "Black"]
+      }
+    ]
+  }
+  
